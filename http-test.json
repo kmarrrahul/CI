@@ -1,0 +1,15 @@
+{
+    "domain": "http-test651",
+    "muleVersion": {
+        "version": "3.8.5"
+    },
+    "monitoringEnabled": true,
+    "monitoringAutoRestart": true,
+    "workers": {
+        "amount": 1,
+        "type": {
+            "name": "Micro"
+        }
+    },
+    "loggingNgEnabled": true
+}
